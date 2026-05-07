@@ -4,4 +4,14 @@ body{
 
 header{
     background-color: rgb(255, 252, 78);
+    text-align: center;
+}
+
+#minions-img{
+    width:300px;
+}
+.paragrafo{
+    text-align:center;
+    padding: 5px;
+    font-size: 20px;
 }
